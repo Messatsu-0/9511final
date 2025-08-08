@@ -1,6 +1,6 @@
 # Community Support Portal - Interactive Prototype
 
-This is a high-fidelity interactive prototype designed for usability testing. The prototype simulates a community support portal with various features like AI voice assistance, accessibility options, and community help. You can directly access this interactive prototype through this link: https://messatsu-0.github.io/9511a2/
+This is a high-fidelity interactive prototype designed for usability testing. The prototype simulates a community support portal with various features like AI voice assistance, accessibility options, and community help. You can directly access this interactive prototype through this link: [https://messatsu-0.github.io/9511a2/](https://messatsu-0.github.io/9511final/)
 
 ## Purpose
 
@@ -55,4 +55,5 @@ When conducting usability tests, focus on:
 - How intuitively users navigate between pages
 - Whether interactive elements provide clear feedback
 - If accessibility features are easy to discover and use
+
 - Overall visual appeal and consistency 
